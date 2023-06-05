@@ -1,0 +1,8 @@
+Created and added airline1: Destination: Kiev, Flight Number: 123, Aircraft Type: Boeing, Departure Time: 12:00, Days of Week: Monday Wednesday Friday 
+Created and added airline2: Destination: London, Flight Number: 456, Aircraft Type: Airbus, Departure Time: 16:00, Days of Week: Tuesday Thursday Saturday 
+Created and added airline1: Destination: Kiev, Flight Number: 123, Aircraft Type: Boeing, Departure Time: 12:00, Days of Week: Monday Wednesday Friday 
+Created and added airline2: Destination: London, Flight Number: 456, Aircraft Type: Airbus, Departure Time: 16:00, Days of Week: Tuesday Thursday Saturday 
+Created and added airline1: Destination: Kiev, Flight Number: 123, Aircraft Type: Boeing, Departure Time: 12:00, Days of Week: Monday Wednesday Friday 
+Created and added airline2: Destination: London, Flight Number: 456, Aircraft Type: Airbus, Departure Time: 16:00, Days of Week: Tuesday Thursday Saturday 
+Created and added airline1: Destination: Kiev, Flight Number: 123, Aircraft Type: Boeing, Departure Time: 12:00, Days of Week: Monday Wednesday Friday 
+Created and added airline2: Destination: London, Flight Number: 456, Aircraft Type: Airbus, Departure Time: 16:00, Days of Week: Tuesday Thursday Saturday 
